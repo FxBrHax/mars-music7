@@ -1,4 +1,4 @@
-token=NTQzNDE4NzIzNjk2OTAyMTc2.XRzY4A.ipS2FLtNEDyQ0cmKZitnapoy2IQ
+token=NTQzNDE4NzIzNjk2OTAyMTc2.XRzY7A.lzP-15iyUmCIIimIvP49GNzBfMs
 owner=298878949461590017
 prefix=7
 game=7help
