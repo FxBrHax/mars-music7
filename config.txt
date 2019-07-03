@@ -1,0 +1,6 @@
+﻿token=NTk2MDEwMjA4NTg1ODQyNjg4.XRzT4Q.9iNw9OdDAcIRe4AnQA_ZRxTyxTo
+owner=298878949461590017
+prefix=7
+game=7help
+stayinchannel=false
+songinstatus=true 
