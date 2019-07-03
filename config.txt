@@ -1,4 +1,4 @@
-﻿token=NTk2MDEwMjA4NTg1ODQyNjg4.XRzT4Q.9iNw9OdDAcIRe4AnQA_ZRxTyxTo
+﻿token=NTQzNDE4NzIzNjk2OTAyMTc2.XRzY4A.ipS2FLtNEDyQ0cmKZitnapoy2IQ
 owner=298878949461590017
 prefix=7
 game=7help
